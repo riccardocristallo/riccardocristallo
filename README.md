@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riccardo Cristallo</h1>
 <h3 align="center">A passionate developer from Como, Italy</h3>
 
-- 🔭 I’m currently working on **Sport Team Management System**
+- 🔭 I’m currently working on my Bachelor’s thesis in Computer Science
 
 - 🌱 I’m currently learning **React Ts + Vite**
 
