@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Backend Projects like Java - Spring Boot ...**
 
-- 📫 How to reach me **rickycri17@gmail.com**
+- 📫 How to reach me **riccardo.cristallo17@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riccardo-cristallo-209035247/](https://www.linkedin.com/in/riccardo-cristallo-209035247/)
 
