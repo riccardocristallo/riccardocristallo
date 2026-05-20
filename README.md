@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riccardo Cristallo</h1>
 <h3 align="center">A passionate developer from Como, Italy</h3>
 
-- 🔭 I’m currently working on my Bachelor’s thesis in Computer Science
+- 🔭 I’m currently working on my Master’s project in Computer Science
 
 - 🌱 I’m currently learning **React Ts + Vite**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/riccardocristallo?tab=repositories](https://github.com/riccardocristallo?tab=repositories)
 
-- 💬 Ask me about **Backend Projects like Java - Spring Boot ...**
+- 💬 Ask me about **Backend Projects ...**
 
 - 📫 How to reach me **riccardo.cristallo17@gmail.com**
 
